@@ -1,0 +1,5 @@
+numero1 = input('digite um numero: ')
+numero2 = input('digite um numero: ')
+num1= int(numero1)
+num2=int(numero2)
+print (num1 + num2)
