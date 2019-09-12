@@ -1,0 +1,6 @@
+Branch Python
+git clone --single-branch --branch python git@github.com:gitdevocozicombr/LabFull.git
+git add .
+git commit -m 'rcunha'
+git push -u origin python
+
