@@ -18,6 +18,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 #Ruby
 Custom: clonar este branch
 git clone --single-branch --branch ruby git@github.com:gitdevocozicombr/LabFull.git
+git push -u origin ruby
 #Cursos:
 <Curso Ruby on Rails 5.x - Do início ao fim!>
 link:https://www.udemy.com/course/rubyonrails-5x/
