@@ -1,2 +1,0 @@
-aula4:Aula4
-aula6:Pythontest
