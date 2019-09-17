@@ -1,29 +1,4 @@
-…or create a new repository on the command line
-
-echo "# LabFull" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:gitdevocozicombr/LabFull.git
-git push -u origin master
-
-…or push an existing repository from the command line
-
-git remote add origin git@github.com:gitdevocozicombr/LabFull.git
-git push -u origin master
-
-…or import code from another repository
-
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-#Branches
-html
-htmlcss
-master
-php
-python
-javascript
-go
-ruby
--shell
--java
+#Download do Branch
+#Branch ShellAwk
+git clone --single-branch --branch ShellAwk https://github.com/gitdevocozicombr/LabFull.git
 
