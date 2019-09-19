@@ -6,6 +6,7 @@
 Sumário:
 --------
 Introdução
+Projeto  FullLang
  Organização Geral
 Branches
  Organização Dos branches
@@ -18,6 +19,19 @@ meus cursos e o novo. Na nova maneira, tudo esta dentro do repositório
 LabFull: https://github.com/gitdevocozicombr/LabFull Dentro do LabFull a
 organização se da por branches. Ou seja, se eu estou fazendo um curso de
 python então eu tenho que estar dentro do branch python. 
+---
+FullLAng
+---
+É o conceito que criei para determinar o repositório de todas as linguagens.
+ele é o repositório com varias branches que gerencia toda linguagem aprendida.
+Se eu estou em um curso: cursohtml, ele entrará no projeto FullLang na branch html
+dentro da branch html eu terei o diretório ./cursohtml/.
+Se eu fizer outro curso html,denominado segundocursohtml criarei outro
+diretório dentro da branch, chamado:./segundocursohtml.
+A ordem é esta, uma branch por linguagem e um diretório dentro
+da branch por curso.
+
+
 ----------------
 [*]ORGANIZAÇÃO GERAL:
 ----------------
