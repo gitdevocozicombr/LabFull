@@ -1,37 +1,12 @@
-git clone:
-git clone https://github.com/gitdevocozicombr/LabFull.git
-#
-…or create a new repository on the command line
+Clonando uma branch:
+git clone --single-branch --branch <nomedabranch> git@github.com:gitdevocozicombr/LabFull.git
+git add .
+git commit -m 'rcunha'
+git push -u origin <nomedabranch>
 
-echo "# LabFull" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:gitdevocozicombr/LabFull.git
-git push -u origin master
-
-…or push an existing repository from the command line
-
-git remote add origin git@github.com:gitdevocozicombr/LabFull.git
-git push -u origin master
-
-…or import code from another repository
-#Download do Branch
-git clone --single-branch --branch <branchname> <remote-repo>
-
-
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-#Branches
-html
-htmlcssjsp
-master
-php
-python
-javascript
-go
-ruby
--shell
--ShellAwk
--ShellSed
--java
+clonando a Branch Python:
+git clone --single-branch --branch python git@github.com:gitdevocozicombr/LabFull.git
+git add .
+git commit -m 'rcunha'
+git push -u origin python
 
