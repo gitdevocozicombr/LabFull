@@ -18,9 +18,8 @@ git push -u origin master
 …or import code from another repository
 #Download do Branch
 git clone --single-branch --branch <branchname> <remote-repo>
+git clone --single-branch --branch perl git@github.com:gitdevocozicombr/LabFull.git
 
-
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 #Branches
 html
 htmlcssjsp
@@ -34,4 +33,4 @@ ruby
 -ShellAwk
 -ShellSed
 -java
-
+-erl
